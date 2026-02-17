@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Spiders",
+  "base_artist": "System Of A Down",
+  "createdAt": "2026-02-17T13:26:08.369882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spiders",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_Spiders_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spiders And Flies",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/02_Spiders_And_Flies_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spiders & Flies",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/03_Spiders_&_Flies_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spiders and Flies (live)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/04_Spiders_and_Flies_(live)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spiders & Flies (Live)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/05_Spiders_&_Flies_(Live)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spiders",
+      "artist": "Junglepussy",
+      "has_synced": false,
+      "path": "select/06_Spiders_Junglepussy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dolls (Some Spiders White Light Returned With Thanks Demo Mix)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/07_Dolls_(Some_Spiders_White_Light_Returned_With_Thanks_Demo_Mix)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Black Spiders",
+      "artist": "Armand Van Helden",
+      "has_synced": false,
+      "path": "select/08_Little_Black_Spiders_Armand_Van_Helden.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spiders, Crocodiles & Kryptonite",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/09_Spiders,_Crocodiles_&_Kryptonite_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I See Spiders When I Close My Eyes",
+      "artist": "The Boy Least Likely To",
+      "has_synced": false,
+      "path": "select/10_I_See_Spiders_When_I_Close_My_Eyes_The_Boy_Least_Likely_To.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eating Spiders",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/11_Eating_Spiders_Psapp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spiders House",
+      "artist": "Califone",
+      "has_synced": false,
+      "path": "select/12_Spiders_House_Califone.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spider's Web",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/13_Spider's_Web_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spider’s Web",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/14_Spider’s_Web_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spider's Web (Album Remix)",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/15_Spider's_Web_(Album_Remix)_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spider's Web (Single Version)",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/16_Spider's_Web_(Single_Version)_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spider’s Web (single version)",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/17_Spider’s_Web_(single_version)_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spiders",
+      "artist": "Deathless Legacy",
+      "has_synced": false,
+      "path": "select/18_Spiders_Deathless_Legacy.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Spiders",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/19_Spiders_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spiders",
+      "artist": "System Of A Down",
+      "has_synced": false,
+      "path": "select/pl_01_Spiders_System_Of_A_Down.txt"
+    }
+  ]
+}
