@@ -1,0 +1,34 @@
+# System Of A Down – Spiders
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+The piercing radiant moon
+The storming of poor June
+All the life running through
+her hair
+Approaching guiding light
+Our shallow years in fright
+Dreams are made, winding
+through my head
+Through my head!
+Before you know, awake!
+Your lives are open wide
+The V-chip gives them sight
+Of all the life running through
+her hair
+The spiders all in tune
+The evening of the moon
+Dreams are made, winding
+through my head
+Through my head!
+Before you know, awake!
+Through my head, through my head
+Before you know!...
+Before you know I will be
+waiting, all awake
+Dreams are made winding through
+her hair
+Dreams are made winding through
+her hair
+```
